@@ -1,0 +1,17 @@
+# Android Studio & Gradle
+.gradle/
+/build/
+/*/build/
+.idea/
+*.iml
+local.properties
+
+# OS specific 
+.DS_Store
+
+# PHP & Backend
+
+notes_api2/db_config.php 
+
+# Firebase 
+google-services.json
